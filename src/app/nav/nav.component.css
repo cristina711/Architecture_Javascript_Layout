@@ -1,0 +1,25 @@
+div.nav{
+    background-color: rgb(84, 84, 139);
+    width: 250px;
+    height:400px ;
+    border-style: solid;
+    border-width: 3px;
+    text-align: left;
+    margin: 20px;
+    padding-left: 20px;
+    position: relative;
+    bottom: 425px;
+}
+.button{
+
+    background-color: grey; /* Green */
+    border-style: solid;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 20px;
+
+    
+    }
